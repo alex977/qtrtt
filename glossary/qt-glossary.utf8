@@ -1,0 +1,274 @@
+------ A -----
+access functions	Функции доступа
+accessibility	специальные возможности
+additional Inherited Members	Дополнительные унаследованные члены
+advanced	расширенный
+and so on	и т.д.
+appearance	внешний вид; появление
+application's executable	исполняемый файл приложения
+appropriate	соответствующий
+As a result	В результате
+At this point	В этом месте; Здесь
+attributes	свойства
+attribute	свойство
+------ B -----
+bar	панель
+to bind	связывать
+bind parameter	связанный параметр
+bind value	связанное значение
+buddy	партнёр
+buddy widget	виджет-партнёр
+by following	следуя (чему-либо)
+------ C -----
+callback	обратный вызов
+checkable actions	отмечаемое действие
+Class Implementation	Реализация класса
+(...) class is the abstract base class	Класс (...) - это абстрактный базовый класс
+Class Definition	Определение класса
+Class Reference	Описание класса
+connect	соединение
+constant time	постоянное время (алгоритмич. сложность)
+Constructs	Конструирует
+contents	содержимое, оглавление (справки)
+content	содержимое, оглавление (справки)
+convenience	вспомогательный, удобный
+convenience class	вспомогательный класс
+convenient	вспомогательный, удобный
+convenient API	вспомогательное API
+convenient function	вспомогательная функция
+compiler specific libraries	библиотеки, зависящие от компилятора
+compressed help files	сжатые файлы справки
+custom help viewer	пользовательская справочная система
+------ D -----
+data-aware forms	информационно-связанные формы
+dead lock	взаимная блокировка
+demarshall	извлечение (D-BUS)
+detailed description	подробное описание
+directory	каталог
+disambiguation	уточнение
+to dictate	предписывать
+deep copy	глубокое копирование
+depends on	взависимости от
+Destroys	Уничтожает (объект)
+dropdown	выпадающий
+dropdown list	выпадающий список
+drop-in replacement	лёгкая замена
+docked	прикреплен
+dock nesting	вложенность прикрепляемых виджетов; разделение области прикрепления
+dock widget	прикрепляемый виджет
+dock widgets	прикрепляемые виджеты
+dock area	область (при)крепления (виджета)
+docking behavior	поведение прикрепления
+------ E -----
+e.g.	например
+edition	выпуск
+encapsulate	заключать/содержать в себе
+encapsulates	заключает в себе
+end expression	завершающее выражение
+engine	механизм (НЕ движок)
+ensure	гаранитировать
+environment variable	переменная окружения
+Example:	Пример:
+------ F -----
+For example:	Например:
+Finally	В заключение
+find control	панель поиска (в Асистенте появляющаяся в низу страницы)
+find out	узнать
+For more information	Для получения дополнительной информации
+for that reason	по этой причине
+For historical reasons	По историческим причинам
+form-based application	приложение с формами
+framework	структура
+from within	изнутри
+------ G -----
+getter function	функция установки значения
+------ H -----
+handle	ручка, обработчик
+hard-coded	жестко зашит (в код, например)
+help	справка
+help browser	просмотрщик справки
+help collection file	файл коллекции справки
+help collection project file	файл проекта коллекции справки
+help files	файлы спраки
+help system	справочная система
+Historical note	Историческая справка
+However	Однако, Тем не менее
+------ I -----
+icon	значёк
+In addition	В дополнение
+in order to	для того, чтобы
+in which case	в этом случае
+i.e.	т.е.
+implicit sharing	неявное совместное использование (данных)
+implicitly shared	с неявным совместным использованием (данных)
+index keywords	предметный указатель (в справочной системе)
+Indicates that	Указывает, что
+inherited from	унаследованный от
+Inherited by	От него наследуются
+inherits from	унаследованный от
+Inherits	Унаследован от
+in many respects	во многих отношениях
+in the order in which	в том порядке, в котором
+invalid	недействительный
+irrespective of	независимо от
+item view	элементно-ориентирование представление
+it is seen	его видно
+iterate	перебор, обход
+------ J -----
+
+------ K -----
+
+------ L -----
+layout	компоновка, компоновщик
+linear time	линейное время (алгоритмич. сложность)
+list of all members, including inherited members	Список всех членов включая унаследованные
+listener	слушатель
+locale	локаль
+look and feel	внешний вид и поведение
+look for	искать
+------ M -----
+macros	макросы
+map	словарь
+manipulate	работа с (чем-либо)
+marshall	вставка (D-BUS)
+marshalling	вставка (D-BUS)
+mean that	значит, что
+member type documentation	описание типов-членов
+member function documentation	описание функций-членов
+model/view framework	каракас модель-представление
+------ N -----
+namespaces	пространства имен
+namespace reference	описание пространства имен
+null node	нулевой узел
+Note that	Заметьте, что
+Note:	Замечание:
+------ O -----
+obsolete members	Устаревшие члены
+online help	интерактивная справка (если явно не сказано о сетевом соединении)
+option	возможность, альтернатива, параметр
+------ P -----
+painter	рисовальщик
+painter path	траектория рисовальщика/рисования
+parser	анализатор (синтаксический)
+parsing	анализ (синтаксический)
+path	путь (ФС); траектория, контур (графика)
+pixmap	растровое изображение
+pixmaps	растровые изображения
+plugin	подключаемый модуль
+plugins	подключаемые модули
+plugin directory	каталог подключаемых модулей
+populate	заполнить
+popup	всплывающий
+popup menu	всплывающее меню
+public functions	открытые функции
+public functions inherited from	открытых функций унаследованных от
+public function inherited from	открытая функция унаследованная от
+public slots	открытые слоты
+public slots inherited from	открытых слотов унаследованных от
+public slot inherited from	открытый слот унаследованный от
+public types	открытые типы
+private	закрытый
+progress bar	индикатор выполнения
+property documentation	описание свойств
+properties	свойства
+properties inherited from	свойства унаследованных от
+property inherited from	свойство унаследованное от
+protected functions	защищенные функции
+protected functions inherited from	защищенных функций унаследованных от
+protected function inherited from	защищенная функция унаследованна от
+protected slots	защищенные слоты
+protected slots inherited from	защищенных слотов унаследованных от
+protected slot inherited from	защищенный слот унаследованный от
+protected slot inherited from	защищенный слот унаследованный от
+provides	предоставляет
+provide	предоставлять
+------ Q -----
+Qt 3 support members	Поддержка членов Qt 3
+Qt Help Collection Project	Проект коллекции справки Qt
+Qt Help Project	проект справки Qt
+------ R -----
+Rationale:	Обоснование:
+reader	читатель
+record-based application	приложение, основанное на манипулировании записями
+reentrancy	реентерабельность
+reentrant	реентерабельный
+reimplement	переопределеный
+Reimplemented from Переопределено из
+reference documentation	справочная документация
+related non-members	связанные не-члены
+Relevant	связанный
+represent	представлять
+represents	представляет
+Rich Text	Форматированный текст
+rubber band	резиновая нить
+------ S -----
+sanity check	санитарная проверка
+scope	область действия
+screenshot	снимок экрана
+script	сценарий
+scroll bar	линейка прокрутки
+seamless	однородный (НЕ "бесшовный")
+Search wrapped	Поиск сначала
+section	раздел (на странице); параграф (книги, документации)
+see ... for details	за подробностями обращайтесь к ...
+see (...) for details [...]	за подробностями [...] обращайтесь к (...)
+see (...) for how to use [...]	как использовать [...], смотрите (...)
+see (...) for more information about [...]	для получения дополнительной информации о [...], смотрите (...)
+setter function	функция получения значения
+signals	сигналы
+signals inherited from	сигнала унаследованных от
+signal inherited from	сигнал унаследованный от
+single-valued	однозначный
+single-valued set	однозначное множество
+similar words	похожие слова
+shortcut	комбинация горячих клавиш
+slider	ползунок
+spacer	разделитель
+spelling corrections	исправление правописания
+specified by	определяемый, задаваемый (кем-либо, чем-либо)
+specific	определенный, конкретный, указанный
+specify	точно определять, указывать
+spin box	счётчик
+start expression	начальное выражение
+static public members inherited from	статических открытых члена унаследованных от
+static public members	статические открытые члены
+status bar	строка состояния
+support members	поддержка членов
+system locale	системная локаль
+------ T -----
+tab bar	панель вкладок
+Tab Order	Порядок обхода
+tab widget	виджет-вкладка
+take care	заботиться
+tabbed widget	виджет со вкладками
+tabbed widgets	виджеты со вкладками
+tabbed dialog	диалог со вкладками
+tabbed dialogs	диалоги со вкладками
+table of contents	оглавление
+title bar	панель заголовка
+This enum specifies	Данное перечисление определяет
+This means that	Это означает, что
+This class was introduced in	Этот класс был введён в
+tool	инструмент
+tool button	кнопка панели инструментов
+toolbar break	разрыв панели инструментов
+toolbar	панель инструментов
+toolkit	инструментарий
+tooltip	всплывающая подсказка
+tool tips	всплывающая подсказка
+type Documentation	документация типов
+------ U -----
+usable	удобный (в использовнии); пригодный к использованию
+------ V -----
+valid	действительный
+warning	предупреждение
+View Classes	Классы представлений
+------ W -----
+We begin by	Мы начинаем с
+Window System Specific	конкретные/определенные оконные системы
+whitespace	пробельные символы
+Whole words only	Только слово целиком
+writer	писатель
+------ X -----
+------ Y -----
+------ Z -----
